@@ -2,7 +2,7 @@
 <img src="assets/bg.png" width="200" height="380">
 
 ## Tecnologias
-React Native
+React Native <br/>
 Expo Navigation
 
 ## Framework
