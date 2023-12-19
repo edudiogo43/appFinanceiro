@@ -3,7 +3,7 @@
 
 ## Tecnologias
 React Native <br/>
-Expo Navigation
+Expo Navigation <br/>
 
 ## Framework
 Expo
